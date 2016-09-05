@@ -1,0 +1,38 @@
+problemas de transporte
+congestion vehicular
+
+
+Una soluciona general o una solucion a la medida de la ciudad?
+A medida:
+Principales flujos de transporte
+Cantidad de personas que se mueven de un punto a otro
+Tipos de transporte
+
+
+Apuntar a problemas grandes a poqueños problemas?
+
+
+Principales problemas en zonas urbanas
+https://people.hofstra.edu/geotrans/eng/ch6en/conc6en/ch6c4en.html
+
+Traffic congestion and parking difficulties.
+Longer commuting. 
+Public transport inadequacy.
+Difficulties for non-motorized transport.
+Loss of public space. 
+High maintenance costs.
+Environmental impacts and energy consumption.
+Accidents and safety.
+Land consumption
+Freight distribution
+
+
+
+¿asegurar disponibilidad en estacionamientos?
+incentivos para cocheras que tengan digitalizada y compartida la disponibilidad de parking?
+
+Kit unificado para la prediccion de tiempos de arribo. Todos los medios de transporte tienen estaciones y vehìculos. Se usa una 
+
+
+http://www.cisco.com/c/en/us/solutions/industries/smart-connected-communities/city-parking.html
+Intelligent Urban Transportation - YouTube

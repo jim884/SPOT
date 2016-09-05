@@ -1,0 +1,28 @@
+http://cpham.perso.univ-pau.fr/LORA/RPIgateway.html
+- Ver de donde sacar data de cantidad de unidades por empresa
+- Rutas y volumen de pasajeros
+- Numeros de empresas, procesos y protocolos
+Beacons por unidad, que usen ubicacion y 
+
+Test of OpenCV haarcascade upperbody detection - YouTube
+https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_upperbody.xml
+http://coding-robin.de/2013/07/22/train-your-own-opencv-haar-classifier.html
+http://stackoverflow.com/questions/11541154/checking-images-for-similarity-with-opencv
+
+Posibles estrategias:
+Analisis de imagen estatica:
+	Cantidad de gente actualmente en el transporte por deteccion de caras y otros rasgos 
+	Se capturan una o varias imágenes y se analiza exaustivamente 
+Analisis de flujo de imagenes:
+	Optical flow
+
+	-
+https://developers.google.com/android/reference/com/google/android/gms/location/DetectedActivity
+
+restar el fondo conocido.
+
+Introduction to SIFT (Scale-Invariant Feature Transform)
+
+
+¿Que pasa si se pierde una confirmación de recarga diferida?
+Se podria poner un snifer para ver que paquetes se envian? A fin de facilitar el testeo

@@ -1,0 +1,70 @@
+- Accidentes de transito
+- Ruido
+- Congestion de transito
+- Educar al publico
+- Evitar la frustracion de la gente 
+	Por ejemplo en el subte cuando esta llegando y podrias apurar el paso pero llegas justo y se va
+	
+	un indicador beacon tiene sentido cuando ni me interesa conocer algo si no estoy cerca, y no quiero tener que abrir una aplicacion para ver algo
+	
+	una aplicacion de paradas y trayectos a la inversa? en
+		quiero saber que paradas de colectivos tengo cerca
+	
+	BusActiveRadar, es una app pero por sobre todo un widget, me dice que paradas tengo proximas y me 
+	Orientado a la simplicidad, no planifico una ruta, me indica que paradas de bondi tengo cerca y puedo cambiar el area de cobertura del radar. Con un golpe de ojo puedo saber si estoy o no cerca de una parada de un bondi al que le conozco el recorrido, si tengo dudas puedo ver rapidamente ese recorrido
+	
+Golpe de ojo,
+
+- Informcion de paradas de bondi offline
+- datos de gps y brujula electronica gestionados por el servicio.
+si la posicion del 
+
+
+
+Considerando que un widget tiene que ser implementado usando un RemoteView, la siguiente serìa la forma de graficar circulos en un widget (sacado de stackoverflow)
+http://stackoverflow.com/questions/2181588/whats-the-proper-way-to-implement-an-android-widget-with-dynamically-drawn-cont
+---------------------------------------------------------------------------------------
+Paint p = new Paint(); 
+p.setAntiAlias(true);
+p.setStyle(Style.STROKE);
+p.setStrokeWidth(8);
+p.setColor(0xFFFF0000);
+
+Bitmap bitmap = Bitmap.createBitmap(100, 100, Config.ARGB_8888);
+Canvas canvas = new Canvas(bitmap);
+canvas.drawArc(new RectF(10, 10, 90, 90), 0, 270, false, p);
+
+RemoteViews views = new RemoteViews(updateService.getPackageName(), R.layout.main);
+views.setImageViewBitmap(R.id.canvas, bitmap);
+
+ComponentName componentName = new ComponentName(updateService, DashboardAppWidgetProvider.class);
+AppWidgetManager appWidgetManager = AppWidgetManager.getInstance(updateService);
+appWidgetManager.updateAppWidget(componentName, views);
+---------------------------------------------------------------------------------------
+
+La otra forma de hacerlo seria mediante graficado de botones que sean dinámicos, que puedan mover en el widget, quizas de podrian dibujar lineas desde el centro hacia cada punto.
+
+¡!¡!¡!¡! -Teoricamente seria tambien posible mostrar una imagen de camara en vivo desde el widget, la aplicacion se convertiria en una aplicacion de realidad aumentada- ¡!¡!¡!¡! 
+¿ https://www.layar.com/documentation/layar-sdk/ ?
+
+
+Motor
+-----
+Serivicio que usa OSM para las calles y data del gobierno de la ciudad para las paradas 
+- http://wiki.openstreetmap.org/wiki/API_v0.6
+Podriamos tener un backoffice que filtre de openstreetmap solo la data de 
+Como implementar un servidor de OSM? cosa que podamos ejecutar una consulta de geoposicionamiento?
+quiero poder extraer esa data sin prooblema, identificar paras de bondis y ver bondi corresponde esa parada
+Hay toda una pagina de los tipos de datos o elementos que conforman el mapa
+
+http://wiki.openstreetmap.org/wiki/Elements
+
+a block of nodes containing especially the location in the WGS84 reference system
+
+***************** http://wiki.openstreetmap.org/wiki/Map_Features *****************
+http://wiki.openstreetmap.org/wiki/Map_Features#Transportation
+
+
+restar el fondo conocido.
+
+Introduction to SIFT (Scale-Invariant Feature Transform)

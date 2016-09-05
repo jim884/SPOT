@@ -1,0 +1,154 @@
+WKT;ID;NOMBRE;CALLE1;CALLE2;INTERSEC;INAUGURA;LIN_SENT_N;LIN_SENT_S;METROBUS
+POINT (-58.526112518066256 -34.638266694164287);1;Liniers;VIEDMA FRANCISCO;CASCO;VIEDMA FRANCISCO & CASCO;si;34 - 109 - 166;34 - 109 - 166;Metrobus Juan B. Justo
+POINT (-58.520143194533759 -34.633496924422751);2;Velez Sarsfield;JUSTO JUAN B. ;JONTE ALVAREZ;JUSTO JUAN B. & JONTE ALVAREZ;si;34 - 99 - 166 - 172;34 - 99 - 166 - 172;Metrobus Juan B. Justo
+POINT (-58.513913101165812 -34.633457821061292);3;Polideportivo Velez Sarsfield;JUSTO JUAN B.;GARCIA JUAN AGUSTIN;JUSTO JUAN B. & GARCIA JUAN AGUSTIN;si;34 - 99 - 166 - 172;34 - 99 - 166 - 172;Metrobus Juan B. Justo
+POINT (-58.506729637790961 -34.634341077095115);4;Cortina;JUSTO JUAN B.;CORTINA;JUSTO JUAN B. & CORTINA;si;34 - 99 - 166 - 172;34 - 99 - 166 - 172;Metrobus Juan B. Justo
+POINT (-58.501042098776409 -34.632207786775169);5;Av. Lope de Vega;JUSTO JUAN B.;LOPE DE VEGA;JUSTO JUAN B. & LOPE DE VEGA;si;34 - 99 - 166 - 172;34 - 99 - 166 - 172;Metrobus Juan B. Justo
+POINT (-58.49485369658003 -34.629537275777722);6;Carrasco;JUSTO JUAN B.;CARRASCO;JUSTO JUAN B. & CARRASCO;si;34 - 99 - 166 - 172;34 - 99 - 166 - 172;Metrobus Juan B. Justo
+POINT (-58.49109564625963 -34.627011038280713);7;Av. Segurola;JUSTO JUAN B.;SEGUROLA;JUSTO JUAN B. & SEGUROLA;si;34 - 99 - 166 - 172;34 - 99 - 166 - 172;Metrobus Juan B. Justo
+POINT (-58.485924077445176 -34.625143829520979);8;Chivilcoy;JUSTO JUAN B.;CHIVILCOY;JUSTO JUAN B. & CHIVILCOY;si;34 - 166;34 - 166;Metrobus Juan B. Justo
+POINT (-58.480817643768582 -34.62204155975661);9;Concordia;JUSTO JUAN B.;CONCORDIA;JUSTO JUAN B. & CONCORDIA;si;34 - 166;34 - 166;Metrobus Juan B. Justo
+POINT (-58.476096333381605 -34.618102594928033);10;Av. Nazca;JUSTO JUAN B.;NAZCA;JUSTO JUAN B. & NAZCA;si;34 - 166;34 - 166;Metrobus Juan B. Justo
+POINT (-58.472255494384328 -34.613823969987052);11;Artigas;JUSTO JUAN B.;ARTIGAS JOSE GERVASIO GRAL;JUSTO JUAN B. & ARTIGAS JOSE GERVASIO GRAL;si;34 - 166;34 - 166;Metrobus Juan B. Justo
+POINT (-58.46784821579157 -34.611303822593023);12;Boyaca;JUSTO JUAN B.;BOYACA;JUSTO JUAN B. & BOYACA;si;34 - 110 - 166;34 - 110 - 166;Metrobus Juan B. Justo
+POINT (-58.462704631866444 -34.607373011852246);13;Av. Donato Alvarez;JUSTO JUAN B.;ALVAREZ DONATO Tte. Gral.;JUSTO JUAN B. & ALVAREZ DONATO Tte. Gral.;si;34 - 110 - 166;34 - 110 - 166;Metrobus Juan B. Justo
+POINT (-58.458473924997968 -34.604491845072424);14;Av. San Martín;JUSTO JUAN B.;SAN MARTIN AV.;JUSTO JUAN B. & SAN MARTIN AV.;si;34 - 109 - 110 - 166;34 - 109 - 110 - 166;Metrobus Juan B. Justo
+POINT (-58.452052278349043 -34.600120442667283);15;Av. Honorio Pueyrredón;JUSTO JUAN B.;PUEYRREDON HONORIO DR.;JUSTO JUAN B. & PUEYRREDON HONORIO DR.;si;34 - 109 - 166;34 - 109 - 166;Metrobus Juan B. Justo
+POINT (-58.447690103827632 -34.597091409563888);16;Murillo;JUSTO JUAN B.;MURILLO;JUSTO JUAN B. & MURILLO;si;34 - 109 - 166;34 - 109 - 166;Metrobus Juan B. Justo
+POINT (-58.44430015384696 -34.594764030761432);17;Av. Corrientes;JUSTO JUAN B.;CORRIENTES;JUSTO JUAN B. & CORRIENTES;si;34 - 166;34 - 166;Metrobus Juan B. Justo
+POINT (-58.440703018640058 -34.592266928589886);18;Aguirre;JUSTO JUAN B.;AGUIRRE;JUSTO JUAN B. & AGUIRRE;si;34 - 166;34 - 166;Metrobus Juan B. Justo
+POINT (-58.434753212275034 -34.585372194959099);20;Honduras;JUSTO JUAN B.;HONDURAS;JUSTO JUAN B. & HONDURAS;si;34 - 166;34 - 166;Metrobus Juan B. Justo
+POINT (-58.430041255397477 -34.581879684783154);21;Guatemala;JUSTO JUAN B.;GUATEMALA;JUSTO JUAN B. & GUATEMALA;si;34 - 166;34 - 166;Metrobus Juan B. Justo
+POINT (-58.426515354062616 -34.577583241440635);23;Pacífico;BULLRICH INT AV;SANTA FE;BULLRICH INT AV & SANTA FE;si;34 - 166;34 - 166;Metrobus Juan B. Justo
+POINT (-58.380854057239539 -34.618876714053805);27;Estados Unidos;AV. 9 DE JULIO;;Entre Carlos Calvo y Estados Unidos;si;10 -- 17 -- 59;59 -- 10 -- 17;Metrobus 9 de Julio
+POINT (-58.380882769127837 -34.617890477370551);28;Independencia;AV. 9 DE JULIO;;Entre Estados Unidos e Independencia;si;45 -- 70;45 -- 70;Metrobus 9 de Julio
+POINT (-58.380944992793843 -34.616679488313913);29;Chile;AV. 9 DE JULIO;;Entre Independencia y Chile;si;9 -- 91 -- 100;100 -- 9 -- 91;Metrobus 9 de Julio
+POINT (-58.380990528402691 -34.615509772959797);30;México;AV. 9 DE JULIO;;Entre Chile y México;si;67 -- 98 -- 129;67 -- 129;Metrobus 9 de Julio
+POINT (-58.381030356944962 -34.614500606940602);31;Venezuela;AV. 9 DE JULIO;;Entre México y Venezuela;si;10 -- 17 -- 59;59 -- 10 -- 17;Metrobus 9 de Julio
+POINT (-58.381042460193484 -34.613473073224057);32;Belgrano;AV. 9 DE JULIO;;Entre Venezuela y Belgrano;si;45 -- 70 -- 100;100 -- 45 -- 70;Metrobus 9 de Julio
+POINT (-58.381171727514044 -34.611070891371021);33;Alsina;AV. 9 DE JULIO;;Entre Moreno y Alsina;si;129;129;Metrobus 9 de Julio
+POINT (-58.381255566548958 -34.609944087864065);34;Yrigoyen;AV. 9 DE JULIO;;Entre Alsina e Hipólito Yrigoyen;si;9 -- 91 -- 67;67 -- 9 -- 91;Metrobus 9 de Julio
+POINT (-58.38139186616656 -34.607584608984197);35;Mitre;AV. 9 DE JULIO;;Entre Rivadavia y Bartolomé Mitro;si;10 -- 17 -- 59;59 -- 10 -- 17;Metrobus 9 de Julio
+POINT (-58.381458739779916 -34.606456815442229);36;Juan D. Perón;AV. 9 DE JULIO;;Entre Bartolomé Mitre y Perón;si;45 -- 70 -- 100;100 -- 45 -- 70;Metrobus 9 de Julio
+POINT (-58.381539420247655 -34.605377885884899);37;Obelisco Sur;AV. 9 DE JULIO;;Entre Juan D. Perón y Sarmiento;si;9 -- 67 -- 129;9 -- 67 -- 129;Metrobus 9 de Julio
+POINT (-58.381753557834337 -34.601725441982516);38;Obelisco Norte;AV. 9 DE JULIO;;Entre Lavalle y Tucumán;si;100 -- 17 -- 59;59 -- 100 -- 17;Metrobus 9 de Julio
+POINT (-58.381812310392924 -34.600580430029503);39;Teatro Colón;AV. 9 DE JULIO;;Entre Tucumán y Viamonte;si;45 -- 70 -- 10;10 -- 45 -- 70;Metrobus 9 de Julio
+POINT (-58.381855052295151 -34.599427467261847);40;Córdoba;AV. 9 DE JULIO;;Entre Viamonte y Av Córdoba;si;9 -- 67;67 -- 9;Metrobus 9 de Julio
+POINT (-58.381895022230239 -34.59825315730383);41;Paraguay;AV. 9 DE JULIO;;Entre Av Córdoba y Paraguay;si;10 -- 17 -- 59;59 -- 10 -- 17;Metrobus 9 de Julio
+POINT (-58.382001519434404 -34.597120176396587);42;Marcelo T. de Alvear;AV. 9 DE JULIO;;Entre Paraguay y Marcelo T. de Alvear;si;129;129;Metrobus 9 de Julio
+POINT (-58.382130340180176 -34.595845005054031);43;Santa Fe;AV. 9 DE JULIO;;Entre Marcelo T. de Alvear y Av. Santa Fe;si;100 -- 70 -- 67;100 -- 70 -- 67;Metrobus 9 de Julio
+POINT (-58.379612362857614 -34.627780622316529);44;Constitución;;;;si;;;Metrobus Sur
+POINT (-58.391552309227542 -34.62725708862979);45;Combate de los Pozos;GARAY JUAN DE AV;;Entre Combate de los Pozos y Entre Ríos;si;;4 - 143;Metrobus Sur - Ramal Fernández de la Cruz
+POINT (-58.396064722716744 -34.627956126672636);46;Pichincha;GARAY JUAN DE AV;;Entre Pasco y Pichincha;si;;4 - 143;Metrobus Sur - Ramal Fernández de la Cruz
+POINT (-58.40084287911575 -34.62866411058269);47;Jujuy;GARAY JUAN DE AV;;Entre jujuy y Alberti;si;;4 - 143;Metrobus Sur - Ramal Fernández de la Cruz
+POINT (-58.407223822587575 -34.631179689713761);48;La Rioja;CHICLANA AV;;Entre La rioja y Gral Urquiza;si;;143;Metrobus Sur - Ramal Fernández de la Cruz
+POINT (-58.41027380640368 -34.633708221952965);49;Sánchez de Loria;CHICLANA AV;;Entre 24 de Noviembre y Sánchez de Loria;si;143;143;Metrobus Sur - Ramal Fernández de la Cruz
+POINT (-58.41528113186493 -34.636940191422006);50;Boedo;CHICLANA AV;;Entre Álzaga y Boedo;si;143;101 - 143;Metrobus Sur - Ramal Fernández de la Cruz
+POINT (-58.419324741160516 -34.640039707195875);51;Caseros;FERNANDEZ DE LA CRUZ AV;;Entre Caseros y Trole;si;23 - 101 - 143;101 - 143;Metrobus Sur - Ramal Fernández de la Cruz
+POINT (-58.423180124457417 -34.643101353896697);52;Av La Plata;FERNANDEZ DE LA CRUZ AV;;Entre Gual y Riestra;si;23 - 101 - 143;101 - 143;Metrobus Sur - Ramal Fernández de la Cruz
+POINT (-58.427938197877616 -34.647532191505853);53;Del Barco Centenera;FERNANDEZ DE LA CRUZ AV;;Entre Lanza y Del Barco Centenera;si;101 - 143;101 - 143 - 150;Metrobus Sur - Ramal Fernández de la Cruz
+POINT (-58.431168509276326 -34.650357234100163);54;Perito Moreno;FERNANDEZ DE LA CRUZ AV;;Entre Mom y Erezcano;si;101 - 143 -150;46 - 101 - 143 - 150;Metrobus Sur - Ramal Fernández de la Cruz
+POINT (-58.434492081082482 -34.653047727547957);55;Polideportivo San Lorenzo;FERNANDEZ DE LA CRUZ AV;;Entre Charrúa y Berg;si;46 - 101 - 143 -150;46 - 101 - 143 - 150;Metrobus Sur - Ramal Fernández de la Cruz
+POINT (-58.438187334694128 -34.655316570976602);56;Varela;FERNANDEZ DE LA CRUZ AV;;Entre Pedernera y Castañares;si;;101 - 143 - 150;Metrobus Sur - Ramal Fernández de la Cruz
+POINT (-58.442441675716132 -34.659312413384825);57;Lafuente;FERNANDEZ DE LA CRUZ AV;;Entre San Pedrito y José Martí;si;23 - 76 - 101 - 143 - 150;23 - 76 - 101 - 143 -150;Metrobus Sur - Ramal Fernández de la Cruz
+POINT (-58.449044033438966 -34.664327654211384);58;Laguna;FERNANDEZ DE LA CRUZ AV;;Entre Laguna y Lacarra;si;101 - 143 -  150;101 - 143 -  150;Metrobus Sur - Ramal Fernández de la Cruz
+POINT (-58.454717064097508 -34.669188780628858);59;Cecilia Grierson;FERNANDEZ DE LA CRUZ AV;;Entre Lacarra y Escalada;si;101 - 143 -  150;101 - 143 -  150;Metrobus Sur - Ramal Fernández de la Cruz
+POINT (-58.461902301779901 -34.675586612353236);60;Escalada;FERNANDEZ DE LA CRUZ AV;;Entre Escalada y Pola;si;101 - 114 - 143 - 150;101 - 114 - 143 - 150;Metrobus Sur - Ramal Fernández de la Cruz
+POINT (-58.465506967272127 -34.678910244025673);61;Pola;FERNANDEZ DE LA CRUZ AV;;Entre Founrouge y Larraya;si;101 - 114 - 143 - 150;101 - 114 - 143 - 150;Metrobus Sur - Ramal Fernández de la Cruz
+POINT (-58.472301905206528 -34.684829145792435);62;Lisandro de la Torre;FERNANDEZ DE LA CRUZ AV;;Fernández de la Cruz y Lisandro de la Torre;si;36 - 143;36 - 143;Metrobus Sur - Ramal Fernández de la Cruz
+POINT (-58.475702268378924 -34.687900832831644);63;Piedrabuena;FERNANDEZ DE LA CRUZ AV;;Entre Piedrabuena y Guaminí;si;36 - 143 - 150;36 - 143 - 150;Metrobus Sur - Ramal Fernández de la Cruz
+POINT (-58.476862728904635 -34.688946828482749);64;Montiel;FERNANDEZ DE LA CRUZ AV;;Fernández de la Cruz y Montiel;si;36 - 143;36 - 143;Metrobus Sur - Ramal Fernández de la Cruz
+POINT (-58.478081472355278 -34.690053800220106);65;José L. Suárez;FERNANDEZ DE LA CRUZ AV;;Entre Saladillo y José León Suárez;si;36 - 143;36 - 143;Metrobus Sur - Ramal Fernández de la Cruz
+POINT (-58.461808971066944 -34.704519695595486);66;Puente La Noria;;;;si;;;Metrobus Sur
+POINT (-58.469764439913746 -34.697795350077044);67;Gral Paz;ROCA CNEL AV;;Roca Cnel y Gral Paz;si;91 - 101 - 114 - 117 - 141;91 - 101 - 114 - 117 - 141;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.467391622760587 -34.695622443771668);68;Guaminí;ROCA CNEL AV;;Entre Guaminí y Montiel;si;91 - 101 - 114 - 117 - 141;91 - 101 - 114 - 117 - 141;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.466333677660003 -34.694651871845352);69;Piedrabuena;ROCA CNEL AV;;Entre Piedrabuena y Guaminí;si;91 - 101 - 114 - 117;91 - 101 - 114 - 117;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.463570056554786 -34.692141209765929);70;Lisandro de la Torre;ROCA CNEL AV;;Entre Lisandro de la Torre y Timoteo Gordillo;si;47 - 91 - 114 - 117 -150;47 - 91 - 114 - 117;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.457429218439401 -34.686137182448178);71;Larrazábal;ROCA CNEL AV;;Entre Pasaje Roca y Larrazábal;si;;91 - 115;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.453087788369096 -34.682502523494392);72;Escalada;ROCA CNEL AV;;Entre Escalada y Pasaje Roca;si;91 - 115;91 - 115;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.4481350991623 -34.676354221620102);73;Estadio Parque Roca;ROCA CNEL AV;;Entre Escalada y Lacarra;si;91 - 115;91 - 115;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.445391865620181 -34.672011967967769);74;Parque Roca;ROCA CNEL AV;;Entre Escalada y Lacarra;si;91 - 115;91 - 115;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.440416957373451 -34.666458909393093);75;Mariano Acosta;ROCA CNEL AV;;Entre Pergamino y Mariano Acosta;si;91 - 115;91 - 115;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.442346502844686 -34.668188321968366);76;Lacarra;ROCA CNEL AV;;Entre Mariano Acosta y Lacarra;si;91 - 115;91 - 115;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.437150966263893 -34.663396169033163);77;Lafuente;RABANAL AV;;Entre San Pedrito y José Martí;si;;91 - 115;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.43301344309652 -34.661499053240021);78;Varela;RABANAL AV;;Entre Varela y Culpina;si;;76 - 91 - 115;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.429548725573895 -34.659918700662395);79;Berg;RABANAL AV;;Entre Berg y Rivera Indarte;si;;76 - 91 - 115;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.426359333723909 -34.658503088965823);80;Bonorino;RABANAL AV;;Entre Bonorino Esteban y Charrúa;si;;76 - 91 - 115;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.421812350289251 -34.656305421841196);81;Vedia;RABANAL AV;;Rabanal y Vedia Agustín;si;;76 - 91 - 115;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.417303847432272 -34.65495210583083);82;Sáenz;RABANAL AV;;Entre Sáenz y Del Barco Centenera;si;;76 - 91 - 115;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.416366660214976 -34.651678935229995);83;Pompeya;SAENZ AV;;Entre Luppi y Lynch;si;91 - 115;91 - 115;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.415747042585139 -34.647598156955318);84;Grito de Asencio;ALMAFUERTE AV;;Entre Famatina y Grito de Asencio;si;115;;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.414183361160042 -34.645057418477954);85;José C. Paz;ALMAFUERTE AV;;Entre Andrés Ferreira y José C Paz;si;115;;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.412867524183405 -34.642149886727935);86;Cortejarena;ALMAFUERTE AV;;Entre Puna y Chutro;si;115;;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.410694027391088 -34.63629558372746);87;Bathurst;SANCHEZ DE LORIA AV;;Entre Cátulo Castillo y Rondeau;si;115;;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.409569452446874 -34.634788420490487);88;Brasil;BRASIL AV;;Entre 24 de Noviembre y Sánchez de Loria;si;6 - 97 - 143;;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.406685235321454 -34.633901709072504);89;La Rioja;BRASIL AV;;Entre La Rioja y Gral Urquiza;si;6 - 97 -143;;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.400997466539785 -34.631774725411134);90;Jujuy;BRASIL AV;;Entre Jujuy y Catamarca;si;6 - 97 -143;;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.395399668186073 -34.630204617071008);91;Garraham;BRASIL AV;;Entre Pichincha y Combate de los Pozos;si;6 - 97 -143;;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.392060919015499 -34.629583083863849);92;Entre Ríos;BRASIL AV;;Entre Pichincha y Combate de los Pozos;si;6 - 97 -143;;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.461231785802276 -34.689972591925965);93;Soldado de la Frontera;ROCA CNEL AV;;Entre Soldado de la Frontera y Racedo;si;47 - 91 - 114 - 115 - 117 - 141 - 150;91 - 115;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.437800559653766 -34.6556493390366);94;Varela;FERNANDEZ DE LA CRUZ AV;;Entre Pedernera y Castañares;si;23 - 76 - 101 - 143 - 150;;Metrobus Sur - Ramal Fernández de la Cruz
+POINT (-58.456992885332269 -34.686431234637929);95;Larrazábal;ROCA CNEL AV;;Entre Pasaje Roca y Larrazábal;si;91 - 115;;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.436211001432341 -34.664350230766622);96;Lafuente;RABANAL AV;;Entre San Pedrito y José Martí;si;76 - 91 - 115;;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.432315345703188 -34.662350037972772);97;Varela;RABANAL AV;;Entre Varela y Culpina;si;76 - 91 - 115;;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.428996916774295 -34.660503246952374);98;Berg;RABANAL AV;;Entre Berg y Rivera Indarte;si;76 - 91 - 115;;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.426067799094874 -34.658863910069819);99;Bonorino;RABANAL AV;;Entre Bonorino Esteban y Charrúa;si;76 - 91 - 115;;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.421561538218135 -34.656709838063897);100;Vedia;RABANAL AV;;Rabanal y Vedia Agustín;si;76 - 91 - 115;;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.417234026537677 -34.655141104177702);101;Sáenz;RABANAL AV;;Entre Sáenz y Del Barco Centenera;si;91 - 115;;Metrobus Sur - Ramal Coronel Roca
+POINT (-58.46116596623272 -34.556844402182371);102;Roosevelt;CABILDO AV;;Entre Roosvelt y Manuel Ugarte;si;41 - 57 - 60 - 194;;Metrobus Norte - Av Cabildo
+POINT (-58.462076906167631 -34.555889798698935);103;Ugarte;CABILDO AV;;Entre Manuel Ugarte y Av Congreso;si;59 - 68 - 133 - 152 - 168;;Metrobus Norte - Av Cabildo
+POINT (-58.462980234421792 -34.554954029308561);104;Congreso;CABILDO AV;;Entre Av Congreso y Quesada;si;29 - 60 - 168 - 184;;Metrobus Norte - Av Cabildo
+POINT (-58.463086507803688 -34.555016832422801);105;Congreso;CABILDO AV;;Entre Av Congreso y Quesada;si;;59 - 60 - 68 - 152 - 161;Metrobus Norte - Av Cabildo
+POINT (-58.464088495295819 -34.554011970591361);106;Quesada;CABILDO AV;;Entre Quesada e Iberá;si;;29 - 57- 133 - 168 - 184 - 194;Metrobus Norte - Av Cabildo
+POINT (-58.465394067364358 -34.552335097368761);107;Iberá;CABILDO AV;;Entre Guayra y Campos Salles;si;60;;Metrobus Norte - Av Cabildo
+POINT (-58.46476405825986 -34.553095031120357);108;Iberá;CABILDO AV;;Entre Iberá y Guayra;si;59 - 68 - 152 - 161;;Metrobus Norte - Av Cabildo
+POINT (-58.465955751071462 -34.551619124520478);109;Campos Salles;CABILDO AV;;Entre Campos Salles y Manuela Pedraza;si;29 - 133 - 168 - 184;;Metrobus Norte - Av Cabildo
+POINT (-58.466418765106496 -34.551292533404833);110;Manuela Pedraza;CABILDO AV;;Entre Manuela Pedraza y Juana Azurduy;si;;59 - 60 - 68 - 152;Metrobus Norte - Av Cabildo
+POINT (-58.467010792589825 -34.550526311893357);111;Juana Azurduy;CABILDO AV;;Entre Juana Azurduy y Núñez;si;;133 - 161 - 168 - 184;Metrobus Norte - Av Cabildo
+POINT (-58.467208119688479 -34.550030157490099);112;Núñez;CABILDO AV;;Entre Juana Azurduy y Núñez;si;59 - 60 - 68 - 133;;Metrobus Norte - Av Cabildo
+POINT (-58.467815314907433 -34.549314174129336);113;Núñez;CABILDO AV;;Entre Núñez y Crisólogo Larralde;si;152 - 161 - 168 - 184;;Metrobus Norte - Av Cabildo
+POINT (-58.468331419238716 -34.548654715023396);114;Crisólogo Larralde;CABILDO AV;;Entre Crisólogo Larralde y Av Comodoro Rivadavia;si;57 - 194;;Metrobus Norte - Av Cabildo
+POINT (-58.469325673163993 -34.54759956674301);115;Manzanares;CABILDO AV;;Entre Av García del Río y Manzanares;si;;57 - 59 - 60 - 68 - 133;Metrobus Norte - Av Cabildo
+POINT (-58.470161541762835 -34.546343340700403);116;Vilela;CABILDO AV;;Entre Paroissien y Vilela;si;59 - 68 - 152 - 161;;Metrobus Norte - Av Cabildo
+POINT (-58.47070227073884 -34.545617926072197);117;Besares;CABILDO AV;;Entre Vilela y Besares;si;60 - 133 - 168 - 184;;Metrobus Norte - Av Cabildo
+POINT (-58.471336818856237 -34.544936572911304);118;Ruiz Huidobro;CABILDO AV;;Entre Besares y Ruiz Huidobro;si;;59 - 60 - 68 - 152;Metrobus Norte - Av Cabildo
+POINT (-58.471875630703281 -34.544208012881228);119;Correa;CABILDO AV;;Entre Ruiz Huidobro y Correa;si;;133 - 161 - 168 - 184;Metrobus Norte - Av Cabildo
+POINT (-58.472300577553391 -34.543416655869748);120;Ramallo;CABILDO AV;;Entre Correa y Ramallo;si;59 - 68 - 152 - 161;;Metrobus Norte - Av Cabildo
+POINT (-58.47286213914677 -34.542675528809966);121;Arias;CABILDO AV;;Entre Ramallo y Arias;si;60 - 133 - 168 - 184;;Metrobus Norte - Av Cabildo
+POINT (-58.473590659621522 -34.541890421825855);122;Deheza;CABILDO AV;;Entre Arias y Deheza;si;;59 - 60 - 68 - 152;Metrobus Norte - Av Cabildo
+POINT (-58.474122892468586 -34.541152323482741);123;Pico;CABILDO AV;;Entre Deheza y Pico;si;;133 - 161 - 168 - 184;Metrobus Norte - Av Cabildo
+POINT (-58.475783618449846 -34.53883167346131);124;Gral Paz;CABILDO AV;PAZ GRAL AV;Debajo de la Av Gral Paz;si;19 - 71 - 161 - 130 - 152 - 184;;Metrobus Norte - Av Cabildo
+POINT (-58.475912648389411 -34.538888182782138);125;Gral Paz;CABILDO AV;PAZ GRAL AV;Debajo de la Av Gral Paz;si;;59 - 60 - 68 - 133 - 152 - 161 - 168 - 184;Metrobus Norte - Av Cabildo
+POINT (-58.475624227908767 -34.53875632614924);126;Gral Paz;CABILDO AV;PAZ GRAL AV;Debajo de la Av Gral Paz;si;21 - 59 - 60 - 68 - 133 - 151 - 168;;Metrobus Norte - Av Cabildo
+POINT (-58.476079629929508 -34.5389698092415);127;Gral Paz;CABILDO AV;PAZ GRAL AV;Debajo de la Av Gral Paz;si;;19 - 71 - 130 - 151;Metrobus Norte - Av Cabildo
+POINT (-58.47729341248322 -34.535904855310072);128;Laprida;MAIPU AV;;Entre Aristóbulo del Valle y Francisco Narciso de Laprida;si;19 - 59 - 60 -71 - 130 - 152;;Metrobus Norte - Av Maipú (provincia)
+POINT (-58.47778653637279 -34.534937619870675);129;Alsina;MAIPU AV;;Entre Narciso de Laprida y Adolfo Alsina;si;21 - 161 - 168 - 184 - 203 - 314 - 365;;Metrobus Norte - Av Maipú (provincia)
+POINT (-58.478370726632477 -34.534020613533038);130;Álvarez;MAIPU AV;;Entre Adolfo Alsina y Agustín Álvarez;si;;19 - 59 - 71 -152 - 161;Metrobus Norte - Av Maipú (provincia)
+POINT (-58.478856247719406 -34.53310361735754);131;Lavalle;MAIPU AV;;Entre Agustín Álvarez y Gral Lavalle;si;;60 - 130 - 168 - 203 - 314 - 365;Metrobus Norte - Av Maipú (provincia)
+POINT (-58.479189969660631 -34.53213011643097);132;Las Heras;MAIPU AV;;Entre Gral Lavalle y Las Heras;si;19 - 59 - 60 - 71 - 130 - 152 - 168;;Metrobus Norte - Av Maipú (provincia)
+POINT (-58.479690636878487 -34.531156591327729);133;Guemes;MAIPU AV;;Entre Las Heras y Guemes;si;21 - 161 - 184 - 203 - 314 - 365;;Metrobus Norte - Av Maipú (provincia)
+POINT (-58.480327886151535 -34.530170483650082);134;Melo;MAIPU AV;;Entre Guemes y Melo;si;;19 - 59- 71 -152;Metrobus Norte - Av Maipú (provincia)
+POINT (-58.480798202551973 -34.52932884577762);135;Haedo;MAIPU AV;;Entre Melo y Haedo;si;;60 - 130 - 168 - 203 - 314 - 365;Metrobus Norte - Av Maipú (provincia)
+POINT (-58.481306379518642 -34.528160621093711);136;Santa Rosa;MAIPU AV;;Entre Martín J. Haedo y Santa Rosa;si;19 - 59 - 71 - 152;;Metrobus Norte - Av Maipú (provincia)
+POINT (-58.481738741226962 -34.5273566673145);137;Roca;MAIPU AV;;Entre Santa Rosa y Roca;si;60 - 130 - 168 - 203 - 314 -365;;Metrobus Norte - Av Maipú (provincia)
+POINT (-58.482391133325663 -34.526452190711744);138;Urquiza;MAIPU AV;;Entre Roca y Urquiza;si;;19 - 59 - 71 - 152;Metrobus Norte - Av Maipú (provincia)
+POINT (-58.482922086927999 -34.525497487693741);139;Vergara;MAIPU AV;;Entre Urquiza y Vergara;si;;60 - 130 - 168 - 203 - 314 - 365;Metrobus Norte - Av Maipú (provincia)
+POINT (-58.483369525917247 -34.524410908575938);140;San Martín;MAIPU AV;;Entre Vergara y Gral San Martín;si;19 - 60 - 71 - 130 - 168;;Metrobus Norte - Av Maipú (provincia)
+POINT (-58.483892867336046 -34.523456202310996);141;Arenales;MAIPU AV;;Entre Gral San Martín y Arenales;si;59 - 152;;Metrobus Norte - Av Maipú (provincia)
+POINT (-58.484385856253368 -34.522545461665132);142;Libertad;MAIPU AV;;Entre Arenales y Libertad;si;203 - 314 - 365;;Metrobus Norte - Av Maipú (provincia)
+POINT (-58.485045743321443 -34.521540482857816);143;Yrigoyen;MAIPU AV;;Entre Libertad e Hipólito Yrigoyen;si;;19 - 59 - 71 - 152;Metrobus Norte - Av Maipú (provincia)
+POINT (-58.485667625501243 -34.520353376576452);144;Italia;MAIPU AV;;Entre Hipólito Yrigoyen e Italia;si;;21 - 60 - 203 - 314 - 365;Metrobus Norte - Av Maipú (provincia)
+POINT (-58.486243923286317 -34.519021827020794);145;Malaver;MAIPU AV;;Entre Italia y Antonio Malaver;si;19 - 21 - 59 - 60 - 71 - 152 - 203 - 314 - 365;;Metrobus Norte - Av Maipú (provincia)
+POINT (-58.469734654706464 -34.547045195035878);146;Paroissien;CABILDO AV;;Entre Av García del Río y Paroissien;si;;152 - 161 - 168 - 184 -194;Metrobus Norte - Av Cabildo
+POINT (-58.459314462146679 -34.60427631491541);147;Pappo Napolitano;AV SAN MARTIN;;Entre Juan B. Justo y Fragata Sarmiento;si;;Sentido Este: 24 - 57 - 105 - 135 - 146;Metrobus Av San Martín
+POINT (-58.465215193045232 -34.602774929580498);148;Donato Álvarez;AV SAN MARTIN;;Entre Juan A. García y Adolfo Dickman;si;Sentido Oeste: 24 - 57 - 105 - 109 - 135 - 146;Sentido Este: 24 - 57 - 105 - 109 - 135 - 146;Metrobus Av San Martín
+POINT (-58.470119655218106 -34.601585413554091);149;Álvarez Jonte;AV SAN MARTIN;;Entre Álvarez Jonte y Miguel Ángel;si;Sentido Oeste: 24 - 57 - 105 - 146;Sentido Este: 24 - 57 - 105 - 146;Metrobus Av San Martín
+POINT (-58.480939832332979 -34.598762427287816);150;Empedrado;AV SAN MARTIN;;Entre Basilio Cittadini y Gral Rivas;si;Sentido Oeste: 47 - 57 - 78 - 105 - 146;Sentido Este: 47 - 57 - 78 - 105 - 146;Metrobus Av San Martín
+POINT (-58.483526239117943 -34.597751897357206);151;Agronomía;AV SAN MARTIN;;Entre Gral Rivas y Melincué;si;Sentido Oeste: 57 - 78 - 105 - 146;Sentido Este: 57 - 78 - 105 - 146;Metrobus Av San Martín
+POINT (-58.486892651625354 -34.597481367995051);152;2 de Abril;AV SAN MARTIN;;Entre Melincué y est. Plurinacional de Bolivia;si;Sentido Oeste: 57 - 78 - 105 - 146;Sentido Este: 57 - 78 - 105 - 146;Metrobus Av San Martín
+POINT (-58.491496752974747 -34.597162158662641);153;Comunicaciones;AV SAN MARTIN;;Entre Tinogasta y Nazca;si;Sentido Oeste: 57 - 78 - 105 - 146;Sentido Este: 57 - 78 - 105 - 146;Metrobus Av San Martín
+POINT (-58.495198618281506 -34.596915822264052);154;Roffo;AV SAN MARTIN;;Entre Nazca y Beiró;si;Sentido Oeste: 57 - 78 - 105 - 146;Sentido Este: 57 - 78 - 105 - 146;Metrobus Av San Martín
+POINT (-58.499382571572674 -34.595996721056672);155;Solano López;AV SAN MARTIN;;Entre Navarro y Pedro Morán;si;Sentido Oeste: 57 - 78;Sentido Este: 57 - 78 - 105;Metrobus Av San Martín
+POINT (-58.507502950065302 -34.592977814026412);156;Cubas;AV SAN MARTIN;;Entre Habana y Vallejos;si;Sentido Oeste: 57 - 78 - 123 - 176;Sentido Este: 57 - 78;Metrobus Av San Martín
+POINT (-58.51119218408256 -34.591631370530585);157;Mosconi;AV SAN MARTIN;;Entre Gabriela Mistral y Carlos Antonio López;si;Sentido Oeste: 57 - 78 - 87 - 123 - 176;Sentido Este: 57 - 78 - 123 - 176;Metrobus Av San Martín
+POINT (-58.515194768457583 -34.590420283315929);158;Ladines;AV SAN MARTIN;;Entre Griveo y Cabezón José León;si;Sentido Oeste: 57 - 78 - 87 - 123 - 176;Sentido Este: 57 - 78 - 87 - 123 - 176;Metrobus Av San Martín

@@ -1,0 +1,233 @@
+Lineas y recorridos a alto nivel - http://www.xcolectivo.com.ar
+
+Linea 1,Moron - Primera Junta
+Linea 2,Lomas del Mirador - Liniers - Aduana - Costanera Sur
+Linea 4,Costanera Sur - Liniers - Lomas del Mirador - Correo Central
+Linea 5,Barrio Piedrabuena - Lacarra y Av. Rivadavia (Floresta) - Tribunales - Retiro
+Linea 6,Hospital Ferroviario - Retiro - Pompeya - Villa Soldati
+Linea 7,Retiro - Once - Parque Avellaneda - Barrio Samore
+Linea 8,Hospital Argerich - Facultad de Ingenieria - Plaza de Mayo - Liniers - Mercado Central - Aeropuerto de Ezeiza
+Linea 9,Retiro - Villa Caraza
+Linea 10,Puente Pacifico - Palermo - Villa Dominico - Sarandi
+Linea 12,Puente Pueyrredon - Plaza Constitucion - Puente Pacifico - Palermo - Plaza Falucho
+Linea 15,Puente Uriburu - Barrancas de Belgrano - Benavidez - General Pacheco
+Linea 17,Facultad de Derecho - Wilde
+Linea 19,Plaza Miserere - Carapachay
+Linea 20,Retiro - Esteban Echeverria
+Linea 21,Puente La Noria - Liniers - Puente Saavedra - Vicente Lopez - Florida - Fabrica Ford - Tigre
+Linea 22,Retiro - Quilmes
+Linea 23,Retiro - Villa Soldati
+Linea 24,Villa del Parque - Cementario de Avellaneda - Wilde - Avellaneda
+Linea 25,Estacion Saenz Peña - La Boca
+Linea 26,Retiro - Barrio Rivadavia
+Linea 28,Retiro - Puente de La Noria - Puente Uriburu - Liniers - Puente Saavedra - Ciudad Universitaria
+Linea 29,La Boca - Estacion Rivadavia - Olivos - Parque Sarmiento
+Linea 31,Plaza Miserere - Nueva Pompeya - Ingeniero Budge - Av. Olimpo y Camino de Cintura
+Linea 32,Plaza Miserere - Lanus - Nueva Pompeya - Remedios de Escalada
+Linea 33,Ciudad Universitaria - Retiro - Monte Chingolo - Remedios de Escalada
+Linea 34,Liniers - Palermo - Hipodromo Argentino de Palermo - Av. Figueroa Alcorta y La Pampa
+Linea 36,Villa Celina - Puente de La Noria - Plaza Italia - Puente Pacifico
+Linea 37,Lanus - Congreso - Palermo - Ciudad Universitaria
+Linea 39,Chacarita - Palermo - Constitucion - Barracas
+Linea 41,Plaza Martin Fierro - Plaza Miserere - Plaza Italia - Munro
+Linea 42,Nueva Pompeya - Ciudad Universitaria
+Linea 44,Barrancas de Belgrano - Puente Uriburu
+Linea 45,Ciudad Universitaria - Retiro - Constitucion - Lanus - Remedios de Escalada
+Linea 46,San Justo - Liniers - La Boca - Universidad Nacional de La Matanza
+Linea 47,Autodromo Oscar A. Galvez - Liniers - Chacarita
+Linea 49,Primera Junta - La Tablada - Isidro Casanova
+Linea 50,Terminal de Omnibus de Retiro - Barrio Luis Piedrabuena - Avenida Eva Perón y Avenida General Paz - Hospital Piñero
+Linea 51,Constitucion - Cañuelas - Lanus - Coronel Brandsen
+Linea 53,La Boca - Constitucion - Flores - Jose C. Paz
+Linea 55,Barrancas de Belgrano - San Justo - Don Bosco - Flores - Palermo - Barrancas de Belgrano
+Linea 56,Retiro - Ciudad Evita
+Linea 57,Palermo - Plaza Italia - Moreno - Lujan - Pilar - Capilla del Señor - Plaza Miserere - Puente Saavedra
+Linea 59,Estacion Buenos Aires - Acassuso
+Linea 60,Constitucion - Congreso - Palermo - Barrancas de Belgrano - San Fernando - Tigre - Rincon de Milberg - Escobar
+Linea 61,Constitucion - Plaza Miserere - Facultad de Derecho - Retiro
+Linea 62,Constitucion - Retiro - Facultad de Derecho - Plaza Miserere
+Linea 63,Barrancas de Belgrano - Villa Madero
+Linea 64,La Boca - Barrancas de Belgrano
+Linea 65,Constitucion - Barrancas de Belgrano
+Linea 67,Hospital Rawson - Constitucion - Plaza Italia - Villa Martelli - Munro
+Linea 68,Puente Saavedra - Puente Pacifico - Plaza Italia - Plaza Miserere
+Linea 70,Retiro - Valentin Alsina
+Linea 71,Villa Adelina - Villa Urquiza - Chacarita - Plaza Miserere
+Linea 74,Correo Central - Burzaco
+Linea 75,Retiro - Tribunales - Plaza Miserere - Nueva Pompeya - Lanus - Remedios de Escalada
+Linea 76,Nueva Pompeya - Villa Soldati - Chacarita - Saavedra
+Linea 78,Chacarita - Villa Adelina
+Linea 79,Constitucion - Lomas de Zamora - Remedios de Escalada - Aeropuerto de Ezeiza - Cañuelas - San Vicente
+Linea 80,Barrio Sarmiento - Villa Lugano - Liniers - Barrancas de Belgrano
+Linea 84,Villa del Parque - Constitucion
+Linea 85,Ciudadela Norte - Villa Devoto - Nueva Pompeya - Quilmes
+Linea 86,La Boca - Congreso - Primera Junta - Flores - Mercado Central - Gonzalez Catan
+Linea 87,Chacarita - Jose Leon Suarez - Boulogne - Fabrica Ford
+Linea 88,Plaza Miserere - Flores - Liniers - San Justo - Lobos - Cañuelas - General Belgrano
+Linea 90,Constitucion - Congreso - Chacarita - Villa Devoto
+Linea 91,Retiro - Constitucion - Aldo Bonzi - Villegas
+Linea 92,Retiro - Recoleta - Flores - Camino de Cintura y Av. Olimpo
+Linea 93,Munro - Palermo - Retiro - Avellaneda
+Linea 95,Avellaneda - Facultad de Medicina - Palermo - Estacion Carranza
+Linea 96,Constitucion - Flores - Liniers - San Justo - Laferrere - Gonzalez Catan - Isidro Casanova - Rafael Castillo - San Alberto - Villa Scasso
+Linea 97,Constitucion - Av. Eva Peron y Av. Gral. Paz - Gonzalez Catan - Moron
+Linea 98,Plaza Miserere - Constitucion - Berazategui - Quilmes
+Linea 99,Plaza de Mayo - Correo Central - Liniers
+Linea 100,Retiro - Constitucion - Lanus
+Linea 101,Retiro - Recoleta - Plaza Miserere - Barrio Samore - Puente La Noria - Ingeniero Budge
+Linea 102,Palermo - Congreso - Constitucion - Barracas
+Linea 103,Tapiales - Primera Junta - Aduana - Puerto Madero
+Linea 104,Liniers - Mataderos - Flores - Plaza Miserere
+Linea 105,Correo Central - Congreso - Villa Devoto - Saenz Peña
+Linea 106,Liniers - Retiro
+Linea 107,Parque Avellaneda - Villa Devoto - Villa Urquiza - Ciudad Universitaria
+Linea 108,Liniers - Villa Devoto - Palermo - Retiro
+Linea 109,Liniers - Facultad de Medicina - Tribunales - Correo Central
+Linea 110,Facultad de Derecho - Saavedra - Villa Martelli
+Linea 111,Puerto Madero - Facultad de Medicina - Palermo - Jose Leon Suarez
+Linea 112,Lanus - Nueva Pompeya - Chacarita - Villa Urquiza
+Linea 113,San Justo - Flores - Barrancas de Belgrano
+Linea 114,Puente La Noria - Villa Devoto - Villa Urquiza - Barrancas de Belgrano
+Linea 115,Retiro - Plaza Miserere - Nueva Pompeya - Villa Soldati
+Linea 117,Ingeniero Budge - Puente de La Noria - Villa Lugano - Liniers - Puente Saavedra - Estacion Rivadavia
+Linea 118,Barrancas de Belgrano - Palermo - Plaza Miserere - Parque Patricios
+Linea 123,Chacarita - El Palomar
+Linea 124,Facultad de Derecho - Recoleta - Villa Devoto - Ciudadela Norte
+Linea 126,La Tablada - Parque Avellaneda - Correo Central - Retiro
+Linea 127,Boedo - Chacarita - Villa Urquiza - Jose Leon Suarez - Don Torcuato
+Linea 128,Plaza Italia - Nueva Pompeya - Valentin Alsina
+Linea 129,Retiro - Congreso - Plaza Miserere - Constitucion - Florencio Varela - La Plata
+Linea 130,La Boca - Correo Central - Retiro - Puente Saavedra - Munro - Boulogne
+Linea 132,Cementerio de Flores - Flores - Plaza Miserere - Facultad de Medicina - Plaza Miserere - Retiro
+Linea 133,Villa Martelli - Puente Saavedra - Villa Urquiza - Constitucion
+Linea 134,Dock Sud - Barracas - Flores - Villa Devoto
+Linea 135,Hospital Posadas - Puente Uriburu
+Linea 136,Primera Junta - Flores - Liniers - Moron - Parque San Martin - Merlo - Marcoz Paz - Navarro
+Linea 140,Correo Central - Villa Urquiza - Villa Adelina - Boulogne Sur Mer
+Linea 141,Villa Albertina - Puente de La Noria - Flores - Plaza Italia - Palermo
+Linea 143,Tapiales - Villa Lugano - Constitucion - Correo Central - Retiro
+Linea 146,Hospital Posadas - Villa Real - Plaza Miserere - Correo Central
+Linea 148,Florencio Varela - Plaza Constitucion
+Linea 150,Villa Madero - Nueva Pompeya - Congreso - Retiro
+Linea 150,Villa Madero - Nueva Pompeya - Congreso - Retiro
+Linea 151,Puente Saavedra - Plaza Miserere - Congreso - Constitucion
+Linea 152,Olivos - Puente Saavedra - Palermo - Retiro - Correo Central - La Boca
+Linea 153,Liniers - Moron - Ituzaingo - Libertad
+Linea 154,Constitucion - Lanus
+Linea 159,Correo Central - Quilmes - Berazategui - Florencio Varela
+Linea 160,Ciudad Universitaria - Palermo - Nueva Pompeya - Lanus - Lomas de Zamora - Claypole
+Linea 161,Liniers - Villa Martelli - Florida - Puente Saavedra - Plaza Italia - Puente Saavedra - Palermo
+Linea 163,Primera Junta - Flores - Liniers - Moron - San Miguel
+Linea 165,Monte Grande - Loma Verde - Nueva Pompeya - Plaza Miserere
+Linea 166,Estacion Tres de Febrero - Puente Pacifico - Palermo - Ramos Mejia - Moron - Barrio Nuevo - Moron - Barrio Nuevo
+Linea 168,La Boca - Constitucion - Plaza Miserere - Vicente Lopez - Olivos - San Isidro
+Linea 169,Av. Cabildo y Av. Congreso - Puente Saavedra - Pablo Podesta - Loma Hermosa
+Linea 172,Primera Junta - Liniers - Ramos Mejia - Atalaya
+Linea 174,Liniers - San Justo - Isidro Casanova - Rafael Castillo - Ciudad Evita - Moron
+Linea 175,Martin Coronado - Villa Urquiza - Av. Cabildo y Av. Congreso
+Linea 176,Chacarita - Villa Urquiza - Jose C. Paz - Tortuguitas - Pilar - Escobar
+Linea 177,Burzaco - Claypole - Rafael Calzada - Remedios de Escalada - Lanus - Nueva Pompeya
+Linea 178,Nueva Pompeya - Avellaneda - Florencio Varela - Estacion Zeballos
+Linea 179,Nueva Pompeya - Lanus - Villa Caraza - Fiorito
+Linea 180,Correo Central - Primera Junta - San Justo - Gonzalez Catan
+Linea 181,Almagro - Primera Junta - Caseros - Ramos Mejia
+Linea 182,Parque Avellaneda - Liniers - Ramos Mejia - Haedo - Ramos Mejia - Haedo - El Palomar - Hospital Posadas - Hurlingham - Jose C. Paz
+Linea 184,Villa Adelina - Munro - Puente Saavedra - Chacarita
+Linea 185,Villa Lugano - Liniers - San Justo - Isidro Casanova
+Linea 188,Palermo - Plaza Miserere - Nueva Pompeya - Ingeniero Budge
+Linea 193,Nueva Pompeya - Ciudad Evita - Mercado Central - Laferrere
+Linea 194,Plaza Miserere - Puente Saavedra - Escobar - Zarate
+Linea 195,Retiro - Constitucion - City Bell - La Plata - City Bell - La Plata
+Linea 202,Berisso - Ensenada - La Plata - Cementerio
+Linea 203,Puente Saavedra - San Fernando - Pilar - San Miguel - Moreno - Don Torcuato - San Miguel
+Linea 204A,Zarate - Escobar - Ingeniero Maschwitz - Boulogne - Fabrica Ford - General Pacheco - Villa Ballester - San Martin
+Linea 204B,Carupa - San Fernando - General Pacheco - Fabrica Ford - Benavidez - Ingeniero Maschwitz - Garin - Escobar
+Linea 205,Liniers - Ramos Mejia - Universidad de La Matanza - San Justo - Gonzalez Catan - Pontevedra
+Linea 218,Liniers - San Justo - Isidro Casanova - Estación Independencia - Gonzalez Catan - Cañuelas
+Linea 219,Quilmes - Ezpeleta - Berazategui - Rotonda de Alpargatas
+Linea 228A,Puente Saavedra - Shopping Unicenter - Fabrica Ford - Escobar - Campana - Zarate
+Linea 228B,Puente Saavedra - Shopping Unicenter - Fabrica Ford - Garin - Ingeniero Maschwitz - Escobar
+Linea 228D,Puente Saavedra - Shopping Unicenter - Lopez Camelo - Fabrica Ford - Cabot - Garin
+Linea 228E,Puente Saavedra - Shopping Unicenter - Lopez Camelo - Fabrica Ford - Cabot - Garin
+Linea 228F,Puente Saavedra - Shopping Unicenter - Barrio Fonavi - Tortuguitas - Alberti - Del Viso
+Linea 236,Moron - Barrio San Francisco - Barrio Los Aromos - Gonzalez Catan - Pontevedra - Barrio Rivadavia - Barrio Matera - Merlo - Marcos Paz - Barrio Belgrano
+Linea 237,Liniers - Caseros - Saenz Peña - Villa Ballester - Saenz Peña - San Martin - Jose Leon Suarez - Villa Lanzone
+Linea 238,Haedo - Ingeniero Brian - Moron - Castelar - Ituzaingo - Libertad - Barrio La Teja - Merlo Gomez
+Linea 242,Liniers - Ciudadela - Ramos Mejia - Haedo - Ingeniero Brian - San Justo - Moron
+Linea 244,Moron - Hurlingham - Don Torcuato - Panamericana y Ruta 202
+Linea 247,Barrio San Jeronimo - Rafael Calzada - Villa Dominico - Sarandi - Avellaneda - Fiorito
+Linea 252,San Martin - Carapachay - Martin Coronado - El Palomar
+Linea 253,Liniers - Ciudadela - Ramos Mejia - Moron - Castelar - Ituzaingo - Libertad - Barrio Nuevo
+Linea 257,Quilmes - San Francisco Solano
+Linea 263,Villa Alcira - Bernal - Quilmes - San Francisco Solano - Claypole - Burzaco
+Linea 266,Lanus - Lomas de Zamora - Temperley - Bernal - Wilde - San Francisco Solano - Florencio Varela - Avellaneda
+Linea 269,Moron - Castelar - Cruce Castelar - Moreno - San Miguel - General Lemos
+Linea 271,Rafael Calzada - Burzaco - Monte Chingolo - Sarandi - San Francisco Solano - Lanus - Cementerio de Lomas - Villa Fiorito
+Linea 273,Rufino de Elizalde - Ringuelet - Gonnet - City Bell - Rotonda de Alpargatas - La Plata
+Linea 275,La Plata - Barrio Monasterio - Ensenada - Punta Lara
+Linea 277,Mercado Frutihorticola - Sarandi - Avellaneda - Lanus - Remedios de Escalada - Universidad de Lomas de Zamora
+Linea 278,Lanus - Banfield - Lomas de Zamora - Temperley - Quilmes - San Francisco Solano
+Linea 281,Lanus - Quilmes
+Linea 283,Lanus - Cementerio de Lomas - Villa Albertina - Puente de la Noria
+Linea 284,Liniers - Ciudadela - Rafael Castillo
+Linea 288,Moreno - Barrio Policial - Cascallares
+Linea 291,Escobar - Ingeniero Maschwitz - Dique Lujan - Pilar
+Linea 293,Avellaneda - Sarandi - Barrio El Dorado - Barrio Don Orione
+Linea 295,Lanus - Cementerio de Avellaneda - Wilde - Barrio Grafico
+Linea 298,Puente de La Noria - Mercado Central - Liniers - San Justo - Ramos Mejia
+Linea 299,Lanus - Banfield
+Linea 300,Quilmes - Berazategui - Ranelagh - Bosques
+Linea 300,Quilmes - Berazategui - Ranelagh - Bosques
+Linea 302,Moreno - Moron - Ramos Mejia - Liniers
+Linea 303,Moron - San Miguel - Pablo Nogues - Acceso Pilar
+Linea 306,Spegazzini - Tristan Suarez - Ezeiza - Monte Grande - Lomas de Zamora - Puente 12 - La Tablada - San Justo
+Linea 307,Rio Santiago - Ensenada - La Plata - Carcel de Olmos
+Linea 310,San Martin - Barrio Libertador
+Linea 311,Moreno - La Perlita
+Linea 312,General Rodriguez - Francisco Alvarez - Moreno - Paso del Rey - Merlo - San Antonio de Padua - Villa Leon - Ituzaingo
+Linea 314,Shopping Soleil Factory - Boulogne Sur Mer - Villa Adelina - Martinez - Olivos - Puente Saavedra
+Linea 315,Panamericana y Ruta 202 - San Miguel - Jose C. Paz - Pablo Nogues - El Talar - Panamericana y Ruta 197
+Linea 317,Moron - Isidro Casanova - Crovara y Cristiania - Barrio San Alberto
+Linea 318,Puente de la Noria - Banfield - Lomas de Zamora - Temperley - Turdera - Adrogue - Barrio Don Orione - Claypole
+Linea 320,Moron - El Palomar - Martin Coronado
+Linea 321,Castelar - Ituzaingo - Barrio Marina
+Linea 324,Don Bosco - Sarandi - Bernal - Cruce Varela - Florencio Varela - Bosques - Rotonda de Alpargatas - Ingeniero Allan - Barrio La Carolina
+Linea 325,Liniers - Ciudadela - Ramos Mejia - San Justo - Isidro Casanova - Laferrere
+Linea 326,Liniers - Ramos Mejia - Haedo - Hospital Posadas - Moron - El Palomar
+Linea 328,Barrio Escalada - J. M. Bosch - San Martin
+Linea 329,Moreno - Nine Shopping - Merlo - San Antonio de Padua
+Linea 333,San Isidro - Beccar - Boulogne - Villa Adelina - Carapachay - Munro - Olivos
+Linea 336,Moron - Castelar - Ituzaingo - San Antonio de Padua - Merlo - Paso del Rey
+Linea 338,La Plata - Rotonda de Alpargatas - Claypole - Universidad de Lomas de Zamora - Puente 12 - La Tablada - San Justo - Moron - Pablo Podesta - Jose Leon Suarez - Boulogne Sur Mer - San Isidro
+Linea 341,Los Polvorines - Malvinas Argentinas - Don Torcuato - San Miguel - Grand Bourg - Tortuguitas
+Linea 343,Liniers - Ciudadela - Caseros - Ramos Mejia - Lourdes - Villa Ballester - Munro - San Martin - Hospital Posadas - Caseros - Villa Adelina - Martinez - Acassuso - San Isidro - Beccar - Carupa - Tigre
+Linea 354,San Francisco Solano - Lanus - Valentin Alsina - Puente Alsina
+Linea 365,Puente Saavedra - Unicenter Shopping - Beccar - Carupa - General Pacheco - Pablo Nogues - General Lemos - San Miguel - Jose C. Paz - Moreno - General Rodriguez - Barrio Stefani - Lujan
+Linea 371,Virreyes - Boulogne Sur Mer - Unicenter Shopping - Don Torcuato - Panamericana y Melo - Unicenter Shopping - Don Torcuato - Panamericana y Melo
+Linea 372,Ezpeleta - Quilmes - Cruce Varela - Bosques
+Linea 373,San Francisco Solano - Puente Avellaneda
+Linea 378,Liniers - Ciudadela - Ramos Mejia - San Justo - Isidro Casanova - Laferrere - Gonzalez Catan - Barrio Independencia
+Linea 379,Don Torcuato - Los Polvorines
+Linea 382,Lomas del Mirador - San Justo - Isidro Casanova - Gonzalez Catan - Liniers - Pontevedra
+Linea 384,San Francisco Solano - Claypole - Rafael Calzada - Jose Marmol - Adrogue
+Linea 386,Moron - Av. Gral. Paz y Beiro
+Linea 390,Moron - William C. Morris - Ruben Dario - Hurlingham - Hospital Posadas - Ramos Mejia - Liniers
+Linea 391,El Talar - Pablo Nogues - Jose C. Paz - Barrio La Paz - Barrio San Atilio
+Linea 392,Moron - Castelar - Ituzaingo - San Antonio de Padua - Merlo - Parque San Martin
+Linea 395,Moron - Castelar - Ituzaingo - Barrio San Alberto - Barrio Santa Cecilia - Villa Las Naciones
+Linea 405,Lanus - Ingeniero Budge - Puente de La Noria
+Linea 406,Ramos Mejia - San Justo - Burzaco - Adrogue - Lomas
+Linea 407,Villa Hidalgo - Shopping Soleil Factory - Boulogne Sur Mer - San Isidro - Acassuso - Unicenter Shopping - Munro
+Linea 410,San Martin - Campo de Mayo - San Miguel - Moreno - General Rodriguez - Pilar - Lujan
+Linea 421,Lomas de Zamora - Avellaneda
+Linea 422,General Rodriguez - Moreno
+Linea 429,San Martin - Campo de Mayo - San Miguel - Moreno - General Rodriguez - Pilar - Lujan
+Linea 430,Puente Saavedra - Unicenter Shopping - Tigre - Rincon de Milberg
+Linea 435,Lanus - Remedios de Escalada - Banfield - Lomas de Zamora - Temperley - Adrogue - Burzaco - Longchamps - Glew - Guernica - Alejandro Korn - San Vicente
+Linea 437,San Isidro - Boulogne Sur Mer - Fabrica Ford - Garin
+Linea 441,Moron - Castelar - Ituzaingo - Barrio San Alberto - Barrio Nuevo - La Refalosa - Parque Leloir - Villa Udaondo
+Linea 446,Lanus - Avellaneda
+Linea 461,Moron - Villa Tesei - Hurlingham - Villa Udaondo
+Linea 462,Moron - Hurlingham - Estacion Jorge Newbery
+Linea 463,Moron - Hurlingham - Ruben Dario - Barrio Destino - Barrio Gaona - Barrio Cartero - William C. Morris
+Linea 464,Moron - Villa Tesei - William C. Morris - Hurlingham

@@ -1,0 +1,82 @@
+ListView
+
+android:background="#00000000" 
+android:cacheColorHint="#00000000"
+
+<TextView
+android:id="@+id/list_content"
+android:textColor="#000000"
+android:gravity="center"
+android:text="sample"
+android:layout_margin="4dip"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+/>
+
+
+¿Cual podria ser la forma mas rapida de seleccionar un destino en un mapa? sin poner la direccion exacta ni usar herramienta lupa sobre mapa.
+
+-----------------------------
+
+Posicionamiento absoluto de componentes en un Realitve Layout
+http://stackoverflow.com/questions/3294590/set-the-absolute-position-of-a-view
+
+-----------------------------
+
+http://wiki.seeedstudio.com/wiki/Bicycle_Dynamo_With_Bracket_-_6V_3W#Schematic
+
+animated splash screen android example
+settings screen
+azul oscuro y rojo
+
+
+http://www.tutorialspoint.com/android/android_widgets.htm
+
+
+
+Chapter 3: Building Basic User Interfaces and Using Controls
+CHAPTER 11: Working with Preferences and Saving State
+Chapter 19: Exploring Maps and Location-Based Services
+Chapter 21: Home Screen Widgets
+Chapter 24: Using Sensors
+
+se mantienen imagenes de cada 
+
+
+ImageButton Android
+http://stackoverflow.com/questions/21633637/rounded-corners-android-image-buttons
+
+-> Le paso mi posicion al servidor
+<- El servidor devuelve las lineas de bondi que estan a tu alrededor,   
+
+
+---------------------------------
+
+Magnic Tecnico 
+
+http://www.66pacific.com/calculators/coil_calc.aspx
+http://www.electricaleasy.com/2014/02/AC-generator-alternator-construction-working.html
+http://www.electricaltechnology.org/2012/11/emf-equation-of-alternator-or-ac.html
+
+---------------------------------
+
+
+L	= 
+100
+	– Required inductance
+D	= 
+0.25
+	– Diameter of coil-former
+l	= 
+5
+	– Length of winding
+d	= 
+23
+	– Diameter of wire without insulation  	
+k	= 
+0.05
+	– Diameter of wire with insulation
+	
+-------------------------------------
+
+BATERIA CELDA 3.7V LP191723 45MAH 1.9MM X 17MM X 23MM
